@@ -152,7 +152,7 @@ public class mainGraphics extends JFrame {
 
 
         imagelabel = new JLabel();
-        imagelabel.setBounds(300, 20,300,350);
+        imagelabel.setBounds(300, 20,400,350);
 
 
         getContentPane().add(imagelabel);
