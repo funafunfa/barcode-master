@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="barbecue-1.5-beta1">
+    <CLASSES>
+      <root url="jar://E:/Down/barbecue-1.5-beta1/barbecue-1.5-beta1/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://E:/Down/barcode4j-2.1.0-src/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/avalon-framework-api-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/avalon-framework-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

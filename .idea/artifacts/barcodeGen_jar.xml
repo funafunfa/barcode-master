@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="barcodeGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/barcodeGen_jar</output-path>
+    <root id="archive" name="barcode_trial.jar">
+      <element id="module-output" name="barcode_trial" />
+      <element id="extracted-dir" path="E:/Down/barbecue-1.5-beta1/barbecue-1.5-beta1/barbecue-1.5-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Down/barcode4j-2.1.0-src/core-3.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
